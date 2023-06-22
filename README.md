@@ -21,6 +21,17 @@ A noob box is when you form a square of pikemen facing outwards so they can't be
 ![image](https://github.com/HackWithSumit/NOOBBOX-1/assets/120317751/bc13451a-ae4b-43b5-8f1e-754faeeb365a)
 
 
+Installation Process: 
+
+![Screencast from 2023-06-22 12-48-49](https://github.com/HackWithSumit/NOOBBOX-1/assets/120317751/18155994-6ee4-4aad-aa79-035361742848)
+
+NOOBBOX Window:
+
+![image](https://github.com/HackWithSumit/NOOBBOX-1/assets/120317751/18dd9b9b-a05d-46ed-8ccf-29b2324844c0)
+
+
+
+
 
 
 
