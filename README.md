@@ -13,7 +13,15 @@ A noob box is when you form a square of pikemen facing outwards so they can't be
 
 <H4>A. After Download Extract Zip File</H4>
 
-<H4>B. After Download Extract Zip File</H4>
+
+![image](https://github.com/HackWithSumit/NOOBBOX-1/assets/120317751/bcdad490-1507-4dc2-99a7-14c151122b13)
+
+<H4>B. Open VirtualBox & add OVA File</H4>
+
+![image](https://github.com/HackWithSumit/NOOBBOX-1/assets/120317751/bc13451a-ae4b-43b5-8f1e-754faeeb365a)
+
+
+
 
 
 
